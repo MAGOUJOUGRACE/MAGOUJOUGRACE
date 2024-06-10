@@ -1,15 +1,14 @@
 # Bonjour 👋
 
-Je suis un **data scientist** passionné par le **machine learning**, le **deep learning**, l'**intelligence artificielle (IA)** et le **développement web**. 
+Je suis  **data scientist** spécialisé en **analyse statistique**, **machine learning**, **deep learning** et en **intelligence artificielle (IA)**. 
 
 ## À propos de moi 🚀
 
-J'ai toujours été fasciné par la façon dont les données peuvent être utilisées pour découvrir des informations précieuses et aider à prendre des décisions éclairées. C'est cette passion qui m'a conduit à devenir un data scientist.
+Passionné par la science des données mes compétences incluent la collecte, le nettoyage et le traitement des données, ainsi que la création de 
+dashboards pour présenter les résultats. Je développe et optimise des modèles, explore différentes architectures de réseaux de neurones et rédige des rapports 
+techniques pour documenter mon travail.
 
-Mon intérêt pour le machine learning et le deep learning découle de mon désir de comprendre comment nous pouvons enseigner aux machines à apprendre par elles-mêmes. J'adore explorer différentes architectures de réseaux de neurones et optimiser les modèles pour obtenir les meilleures performances.
-
-En plus de cela, je suis également passionné par le développement web. J'aime créer des applications web interactives pour visualiser les données et présenter les résultats de mes analyses.
-
+Au-delà de l'analyse de données, je suis également  adepte du développement d'applications web interactives. J'aime créer des interfaces utilisateur attrayantes et intuitives pour visualiser les résultats de mes analyses et faciliter leur compréhension.
 ## Compétences techniques 💻
 
 - **Langages de programmation** : Python, R, SQL, C++, C
